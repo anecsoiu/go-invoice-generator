@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/angelodlfrtr/go-invoice-generator?status.svg)](https://godoc.org/github.com/angelodlfrtr/go-invoice-generator)
+[![GoDoc](https://godoc.org/github.com/anecsoiu/go-invoice-generator?status.svg)](https://godoc.org/github.com/anecsoiu/go-invoice-generator)
 
 # Golang invoice generator
 
@@ -8,7 +8,7 @@ using https://github.com/jung-kurt/gofpdf.
 ## Download from Github
 
 ```
-go get -u github.com/angelodlfrtr/go-invoice-generator
+go get -u github.com/anecsoiu/go-invoice-generator
 ```
 
 ## Exemple output
@@ -21,7 +21,7 @@ go get -u github.com/angelodlfrtr/go-invoice-generator
 package main
 
 import (
-  generator "github.com/angelodlfrtr/go-invoice-generator"
+  generator "github.com/anecsoiu/go-invoice-generator"
 )
 
 func main() {
